@@ -1,0 +1,26 @@
+#corpo{
+ 
+    flex: 1 0 auto;
+    background-color: rgb(207, 117, 32);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', sans-serif;
+ 
+ }
+ 
+ .marginpg{
+ 
+    margin-left: 20%;
+    margin-right: 20%;
+ 
+ }
+ 
+ #imgTL{
+ 
+     width: 240px;
+     height: 220px;
+     display: block;
+     margin: 13px;
+     margin-left: auto;
+     margin-right: auto; 
+ 
+ }
+

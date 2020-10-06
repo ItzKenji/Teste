@@ -1,0 +1,44 @@
+footer{
+ 
+    background-color: rgb(207, 117, 32);
+    padding-top: 17px;
+    font-size: 17px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', sans-serif;
+ 
+ }
+ 
+ footer a{
+ 
+    text-decoration: none;
+    color: rgb(12, 100, 151);
+ 
+ }
+ 
+ footer a:hover{
+ 
+    text-decoration: none;
+    color: rgb(16, 214, 92);
+ 
+ }
+ 
+ #fraseFinal{
+ 
+    font-size: 17px;
+    font-style: italic;
+ 
+ }
+ 
+ .footer-copyright{
+ 
+    background-color: rgba(110, 108, 102, 0.144);
+    
+ }
+
+ #iconeTopoPG{
+ 
+    font-size: 40px;
+    position: fixed;
+    right: 15px;
+    bottom: 15px;
+ 
+ }
